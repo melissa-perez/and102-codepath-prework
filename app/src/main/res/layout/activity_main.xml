@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/purple_200"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,8 +14,12 @@
         android:text="@string/melissa_intro"
         android:layout_marginTop="48dp"
         android:layout_marginHorizontal="16dp"
-        android:textColor="@color/purple_500"
-        android:fontFamily="sans-serif-condensed"
+        android:textColor="@color/design_default_color_surface"
+        android:fontFamily="sans-serif-black"
+        android:includeFontPadding="true"
+        android:shadowRadius="3"
+        android:shadowColor="@color/black"
+        android:shadowDy="4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.504"
@@ -32,7 +37,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.634"
-        app:srcCompat="@drawable/melissa_perez" />
+        app:srcCompat="@drawable/melissa_perez"
+        android:contentDescription="@string/picture_of_author_alt_text" />
 
     <Button
         android:id="@+id/helloButton"

@@ -2,7 +2,8 @@
 
 Submitted by: **Melissa Perez**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a
+button to display a Toast.
 
 Time spent: **5(various breaks)** hours spent in total
 
@@ -12,11 +13,12 @@ The following **required** functionality is completed:
 
 * [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
-* [x] Toast with message appears when button is pressed 
+* [x] Toast with message appears when button is pressed
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Add background color
+* [x] Change font type and style
 
 ## Video Walkthrough
 
@@ -25,7 +27,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Prework Video Walkthrough' width='' alt='Prework Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -33,7 +35,8 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No issues encountered when doing the required steps!
+Fresh installation of Android Studio ran smoothly.
 
 ## License
 

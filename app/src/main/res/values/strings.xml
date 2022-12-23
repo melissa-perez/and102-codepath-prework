@@ -3,4 +3,5 @@
     <string name="melissa_intro">Hello World! My name is Melissa. I can\'t wait to learn more about Android development with Kotlin. I also have a dog named Cocoa.</string>
     <string name="say_hello_button">Say hello!</string>
     <string name="toast_string">Hello to you too!</string>
+    <string name="picture_of_author_alt_text">Picture of author</string>
 </resources>
